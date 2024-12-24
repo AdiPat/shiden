@@ -1,5 +1,7 @@
 # 🌩️ Shiden - Simplify Command-Line Magic!
 
+> 🚦 This project is experimental and still work in progress. 
+
 **Shiden** (_紫電_, meaning "Purple Lightning") is a sleek abstraction over the [Commander.js](https://github.com/tj/commander.js) library, designed to make building and managing CLI tools delightful, dynamic, and lightning-fast ⚡.
 
 <p align="center">
